@@ -1,6 +1,7 @@
-- 👋😊 Hello world, i’m <b>Thiago Silveira</b> programming student, passionate about technology
+- 👋😊 Hello world, i’m <b>Thiago Silveira</b> programming student, passionate about technology <img height="180px" align="right" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg"/>
 - 👀 I'm interested in learning new technologies
-- 👨🏽‍💻 Student of <strong>CodeClub</codeclub> @rodolfomori
+- 👨🏽‍💻 Student of <strong><a href="https://codeclub.rodolfomori.com/">CodeClub</a></codeclub> @rodolfomori
+
 
 <div>
   <a href="https://github.com/thiagosilveira11dev">
